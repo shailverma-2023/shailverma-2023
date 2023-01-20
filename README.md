@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shailverma-2023" alt="shailverma-2023" /></a> </p>
 
-- 🔭 I’m currently working on IBM **Porrtfolio**
+- 🔭 I’m currently working on IBM **Portfolio**
 
 - 🌱 I’m currently learning IBM **ADIT, NSTI KANPUR**
 
